@@ -18,7 +18,7 @@ Attached a few test cases that could be run to see how the program works.
 To run the program run: 
 
 ```
-python3 checkers_starter.py --inputfile checkers1.txt --outputfile output.txt
+python3 checkers_starter.py --inputfile checkers2.txt --outputfile output.txt
 ```
 
 
